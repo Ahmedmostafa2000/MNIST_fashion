@@ -7,4 +7,4 @@ For one epoch the model with the mnist architicture got 75% accuracy and got 85%
 
 Using tuning the model was able to identify the best parameters for one epoch to achieve 86%, on the cost of trying the 12 model combinations though, but I think it is fair because I could add more epochs on the best model and be sure that it is the best choice of hyperbarameters
 
-### Note: I removed the output of the tuning search cell because verbose kind of lagged
+### Note: I removed the output of the tuning search cell because the verbose kind of lagged
